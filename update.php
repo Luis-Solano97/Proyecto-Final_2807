@@ -1,5 +1,5 @@
 <?php
-	
+//Se Modifico el archivo para segundo commit	
 	require 'conexion.php';
 
 	$id = $_POST['id'];
